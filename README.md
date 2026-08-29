@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="Adobe After Effects интерфейс" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" />
+<img width="2880" height="1620" alt="Adobe After Effects интерфейс" src="https://raw.githubusercontent.com/SectionButlerGrasp/after-effects-offline-installer-ru/main/afterfx_screenshot.png" />
 </div>
 
 ---
